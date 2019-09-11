@@ -20,6 +20,7 @@ const blackBoxCss = css`
 
     :hover {
         background-color: gray;
+        color:white;
     }
 `
 
@@ -99,7 +100,7 @@ const BlogPage = ({ data, pageContext }) => {
             <BlogWrapper>
                 <BreadcrumbWrapper>
                     <Link to="/blog"><BreadcrumbHeading>Blog</BreadcrumbHeading></Link>
-                    {isTag && <Link to={`/blog/${tag}`}><BreadcrumbHeading css={css`  ${blackBoxCss};
+                    {isTag && <Link to={`/blog/${tag}`}><BreadcrumbHeading css={css`${blackBoxCss};
                                                             font-weight: normal;
                                                             margin: 0;`}>{tag}</BreadcrumbHeading></Link>}
                 </BreadcrumbWrapper>

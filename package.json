@@ -32,6 +32,7 @@
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
     "react-typography": "^0.16.19",
+    "rehype-react": "^4.0.1",
     "typography": "^0.16.19",
     "typography-theme-stern-grove": "^0.16.19"
   },

@@ -18,7 +18,7 @@ import styled from "@emotion/styled"
 const PageWrapper = styled.div`
   display: flex;
   justify-content: center;
-  padding: 0 1.5em;
+  padding: 0 1.5em 1em 1.5em;
 `
 
 const ContentWrapper = styled.div`

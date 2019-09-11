@@ -2,20 +2,28 @@
 type: 'about-other'
 ---
 
-OTHER markdownum ut dixit capit vineta: roganti in vulnus veni pervenit, restat
-icta geras. Persei [mollibus omnia
-nectare](http://de-quarum.net/dextraquelustra.aspx)! Bracchia et magnis quae
-manu terrarum; Nioben ora recognoscit illi *vulnere*. Semel pluvialibus, illuc
-ille, nox iam supra illud quid ab.
+---
+###Organizational Experience
 
-Unam pro, in Lycei. Quam neque praemia scitaris fluitare et corpora equo flexus
-dolore; i crura praedone, Proximus, ecce plebe circumfusaeque. Relinquit
-fratris, spoliata diverso [qua](http://sui.io/nec) conplexu! Arceor ferunt, cibo
-sine iuventus, tunc fumant a petunt modo.
+#### During Graduate Study
++ **Council Member, Officer-at-large** (2018-2019)  
+   Tokyo Tech International Student Association
++ **Vice Secretary General** (2017-2018)  
+   Tokyo Tech International Student Association
++ **Design and Documentary Staff** (2018)  
+   Tokyo Tech Indonesia Commitment Award 2018 Committee
++ **Event Division Head** (2018)  
+   PPI Tokodai Family Camp 2018 Committee
++ **Member, Player** (2017-2018)  
+   PPI Tokodai Angklung Community
 
-**Patriae** redit Achille per precor et extremo moenia, inpia bracchia vivitur
-procul non peractum quae adsumpserat inferias. [Iam imo
-des](http://in.net/favusholus) discedere Venus, quam finem dentes ictae, ego
-Hodites minax, inclusit positas coeptaeque Icare. Forte et animos fert flebile
-correptus nocens finita. Corpus duobus at deos cultusque **coniunctaque tantum**
-per pectore materque in rear coniungere. Quae telluris ut hanc utinam?
+#### During Undergraduate Study
++ **Project Manager** (2012-2014)  
+   Inkubator IT, Student Association of Informatics, ITB
++ **Game Design Division Head** (2013-2014)  
+   The Society for The Study of Modern Visual Culture, ITB
++ **Event Division Head**  (2014)  
+   2014 New Staff Training Program Committee, The Society for The Study of Modern Visual Culture, ITB
++ **Member** (2013)  
+   Student English Forum, Debating Club of ITB  
+   Novice Runner Up, Indonesian Varsity English Debate 2013

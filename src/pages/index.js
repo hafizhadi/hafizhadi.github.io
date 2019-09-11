@@ -21,7 +21,7 @@ const IndexWrapper = styled.div`
 const DescriptionWrapper = styled.div` 
   @media all and (min-width: 800px) {
       margin-left: 2em;
-      flex: 3;
+      flex: 2;
   }
 `
 
@@ -33,7 +33,7 @@ const BannerWrapper = styled.div`
   max-width: 400px;
 
   @media all and (min-width: 800px) {
-    flex: 2;
+    flex: 1;
   }
 `
 
