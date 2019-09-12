@@ -67,7 +67,7 @@ const AboutBodyWrapper = styled.div`
     }
 
     h5,h6,p {
-        margin: 0.5em 0;
+        margin: 0.75em 0;
     }
 
     ul, ol {
